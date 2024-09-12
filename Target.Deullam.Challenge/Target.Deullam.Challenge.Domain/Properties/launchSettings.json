@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Target.Deullam.Challenge.Domain": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
