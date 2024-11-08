@@ -19,14 +19,3 @@ f) 200
 
 A resposta está no código desse repositório
 
-
-
-![image](https://github.com/user-attachments/assets/dddf3a64-d001-43c7-8516-09f5a5019299)
-
-Resposta:
-
-
-![image](https://github.com/user-attachments/assets/22d70ead-2e77-4236-b449-ee236c9f1f88)
-
-Resposta:
-
